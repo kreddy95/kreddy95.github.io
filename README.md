@@ -1,6 +1,6 @@
 ## Welcome to My Blog
 
-### My First CS Class
+### My First CS Class :computer:
 
 ### Markdown
 
