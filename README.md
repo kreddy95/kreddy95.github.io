@@ -1,6 +1,3 @@
----
-title: Kristina Reddy
----
 ## Welcome to My Blog
 
 ### My First Computer Science Class
