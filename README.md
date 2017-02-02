@@ -1,7 +1,7 @@
 ## Welcome to My Blog
 
 ### My First Computer Science Class :computer:
-```
+
 Going into my first computer science class I never would have expected to go as far as I have with it.  I took 
 COMP115 - Robots, Games, and Problem Solving, the second semester of my freshman year of college with Professor 
 Armstrong.  Most people in my class were only taking the class as a connection or because they needed a 
@@ -29,7 +29,6 @@ I didn’t know or understand most of what it was saying.
 At that point I never would have guessed that I would have loved it and would end up making computer science my 
 second major.  I did not know what I was getting myself into when I chose to take the class but there was 
 something about it that I just had to continue. 
-```
 
 ### Markdown
 
