@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Kristina Reddy
 ---
 ## Welcome to My Blog
