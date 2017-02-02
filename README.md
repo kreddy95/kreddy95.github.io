@@ -30,4 +30,3 @@ I didn’t know or understand most of what it was saying.
 second major.  I did not know what I was getting myself into when I chose to take the class but there was 
 something about it that I just had to continue. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
