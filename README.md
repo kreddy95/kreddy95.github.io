@@ -1,7 +1,7 @@
 ## Welcome to My Blog
 
 ### My First Computer Science Class
-## January 31st, 2017
+January 31st, 2017
 
   Going into my first computer science class I never would have expected to go as far as I have with it.  I took 
 COMP115 - Robots, Games, and Problem Solving, the second semester of my freshman year of college with Professor 
