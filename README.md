@@ -1,5 +1,18 @@
 ## Welcome to My Blog
 
+### A Memorable Computer Scence Class
+March 23rd, 2017
+
+  A memorable computer science course during my four years here at Wheaton College was COMP298 -Startup v1.0 Machine Learning.  In this course, we were trying to figure out what we could do to help people with diabetes manage their data better then produce something that did that.  We started out by learning information about diabetes and hearing it from a staff member on campus who lives with it, which she was generous enough to share her data with us so we could play around with the numbers and try to get what we’d eventually come up with working.  Using the data we were given, we had to understand what all the different variables meant and how they affected each other and what affected each of them.  This took some time to understand and fully wrap our heads around everything but once we got the gist of it we were able to come up with a plan of how to precede for the rest of the semester.  
+  
+  The class broke up into five groups: database, UI/UX, machine learning, reports, and webpage.  The database group was tasked with making a database for all the data and information to be stored in that could be accessed for the other groups to use.  The UI/UX team was to make an iOS application so the user had a nice interface to use our product.  Machine learning was coming up with different ways to use the data we were given and make algorithms with it to hopefully come up with a way to find where a point would be in the future.  The reports team was to take the data we had and find different ways to display it so that it was interactive and useful to the user.  Finally, the webpage team made a webpage to showcase our app and the reports. 
+  
+  As a class, we all learned some machine learning algorithms on flower data just so we all had a sense of what machine learning can do and could think of what we could do from there with our data.  We decided that the best way to show our data in the end would be to build an iOS application, which is done using Apples programming language of Swift.  So, we all learned different aspects of the language and presented our part to the class which was eventually helpful to the UI/UX team since the different parts discussed in class played into making the app that we wanted.  
+  
+  This class was memorable since we were trying to work on a real-world problem, which was that people who are diagnosed with diabetes don’t that great of a way to look at their data.  Which we were trying to help those people by hopefully making their lives easier with all our work.  Sure, different companies send monthly reports that you must go and look through all the papers to get what you actually want but even with those there’s a lot of information missing since not everything can be said about every glucose reading.  Even though we didn’t have enough time in the semester to get all our ideas completely working to their fullest potential we still made a lot of progress towards our goal and hopefully our work will be carried out or used in the future and not just forgotten. 
+
+
+
 ### My First Computer Science Class
 January 31st, 2017
 
